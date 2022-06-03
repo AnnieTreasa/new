@@ -23,7 +23,7 @@ python main.py
 Go to 'http://127.0.0.1:8000'
 
 ## Github link : 
-ttps://github.com/AnnieTreasa/new 
+https://github.com/AnnieTreasa/new 
 
 
 ## Demo_video_link : 
