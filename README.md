@@ -22,8 +22,12 @@ python main.py
 
 Go to 'http://127.0.0.1:8000'
 
-## Github link : https://github.com/AnnieTreasa/new 
+## Github link : 
+ttps://github.com/AnnieTreasa/new 
 
-## Demo_video_link : https://drive.google.com/file/d/1Oghs6sgK2qGTfjv_Zpv90v9loUvb-FQj/view?usp=sharing
+
+## Demo_video_link : 
+https://drive.google.com/file/d/1Oghs6sgK2qGTfjv_Zpv90v9loUvb-FQj/view?usp=sharing
+
 
 ##### Note : index.html is home.html
